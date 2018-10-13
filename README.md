@@ -5,8 +5,8 @@ Using plain Javascript, this assignment requires you to use template literals, a
 **Due Date:**  Sunday, Oct. 14 @ 11:59 pm 
 
 Submission Requirements via Blackboard:
-* Link: 
-* URL: 
+* Pages: <a href="https://dimitri04.github.io/COMP2112-AssignmentOne/index.html">Assingment One</a
+* GitHub: <a href="https://github.com/Dimitri04/COMP2112-AssignmentOne">GitHub Repo<>
 
 ## Purpose: 
 Take an existing, static email-like HTML template, and make it dynamic via Javascript.
